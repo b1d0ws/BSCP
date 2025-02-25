@@ -17,6 +17,14 @@ Outros reviews e write-ups foram utilizados para compor esse guia, como:
 ## Exame
 O exame da BSCP é composto por 3 etapas e você encontrará outros arquivos que contém as possíveis vulnerabilidades de cada etapa.
 
+1. Na primeira etapa, é necessário obter acesso a qualquer usuário de pouco privilégio.
+2. Na segunda etapa, é preciso obter permissões administrativas, seja escalando privilégios, seja obtendo a acesso a conta do administrador.
+3. Na terceira etapa, é necessário ler o arquivo localizado em `/home/carlos/secret` e submeter o valor obtido como solução da aplicação.
+
+Não perca tempo testando os cookies `_lab` e `_lab_analytics`, eles não serão vulneráveis.
+
+Todo aplicativo terá pelo menos um usuário ativo e logado. Esse usuário visitará a página home da aplicação a cada 15 segundos e também clicará em qualquer link e e-mail que ele receber da aplicação. Tenha isso em mente, em algum momento você terá que utilizar o Exploit Server para explorar algo que necessite interação da vítima.
+
 <br>
 
 ## Vulnerabilidades
@@ -50,3 +58,10 @@ Aqui temos as possíveis vulnerabilidades para cada etapa:
 * Deserialização Insegura
 * Vulnerabilidades de Upload de Arquivo
 * SSPP - Server Side Prototype Pollution
+
+Essas vulnerabilidades são baseadas nos links do início, que também compartilham essas imagens:
+
+
+
+![image](https://github.com/user-attachments/assets/5fdc252f-befd-433c-b200-58c567fa4182)
+
