@@ -65,6 +65,33 @@ Essas vulnerabilidades são baseadas nos links do início, que também compartil
 
 ![Acesso Inicial ((1)](https://github.com/user-attachments/assets/faa4597a-46b8-420e-bfe0-de61dbceeae0)
 
-
 ![image](https://github.com/user-attachments/assets/5fdc252f-befd-433c-b200-58c567fa4182)
 
+<br>
+
+## Extensões Úteis
+Ao longo do processo você vai perceber que várias extensões são ditas como úteis, mas pra ser sincero apenas algumas de fato me trouxeram algum resultado:
+
+#### Realmente úteis:
+* Param Miner (facilmente a mais útil)
+* Java Deserialization Scanner
+* JWT Editor (mais para os labs)
+* HTTP Request Smuggler
+
+#### Até podem ajudar:
+* Hackvertor
+* Host Header Inchecktion
+* Collaborator Everywhere
+* Server-Side Prototype Pollution Scanner
+
+#### Provavelmente não ajudará no exame:
+* Web Cache Deception Scanner
+* Logger++
+* Active Scan++
+* InQL - GraphQL Scanner
+* Content Type Converter
+
+Ferramentas terceiras também podem ser bem úteis, como:
+* DOM Invader (Browser)
+* ysoserial.jar
+* SQLMap
