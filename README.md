@@ -15,7 +15,9 @@ Outros reviews e write-ups foram utilizados para compor esse guia, como:
 <br>
 
 ## Exame
-O exame da BSCP é composto por 3 etapas e você encontrará outros arquivos que contém as possíveis vulnerabilidades de cada etapa.
+O exame da BSCP é composto por 3 etapas e você encontrará as possíveis vulnerabilidades de cada etapa nos outros diretórios desse repositório.
+
+A prova é composta de dois aplicativos com tempo máximo de 4 horas para finalizar todas as etapas.
 
 1. Na primeira etapa, é necessário obter acesso a qualquer usuário de pouco privilégio.
 2. Na segunda etapa, é preciso obter permissões administrativas, seja escalando privilégios, seja obtendo a acesso a conta do administrador.
@@ -91,7 +93,15 @@ Ao longo do processo você vai perceber que várias extensões são ditas como �
 * InQL - GraphQL Scanner
 * Content Type Converter
 
+<br>
+
 Ferramentas terceiras também podem ser bem úteis, como:
 * DOM Invader (Browser)
 * ysoserial.jar
 * SQLMap
+
+> [!TIP]
+> Aprenda a usar o SQLMap e utilize-o para resolver os laboratórios (depois de aprender o processo manual). Isso é extremamente importante, afinal o maior do desafio do exame é o tempo limitado, e explorar SQL Injection manualmente não é a coisa mais rápida do mundo.
+
+## Estudos
+Estudos.
