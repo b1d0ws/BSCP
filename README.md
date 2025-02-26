@@ -103,5 +103,20 @@ Ferramentas terceiras também podem ser bem úteis, como:
 > [!TIP]
 > Aprenda a usar o SQLMap e utilize-o para resolver os laboratórios (depois de aprender o processo manual). Isso é extremamente importante, afinal o maior do desafio do exame é o tempo limitado, e explorar SQL Injection manualmente não é a coisa mais rápida do mundo.
 
+<br>
+
 ## Estudos
-Estudos.
+Eu me preparei da seguinte forma para o exame:
+
+Passei por todos os tópicos da PortSwigger (mesmo alguns que não são úteis pro exame como os que envolvem vulnerabilidades lógicas que envolvem saldo) e fiz os laboratórios **Apprentice** e **Practitioner**.
+
+Conteúdos mais avançados e laboratórios Expert eu pulei todos.
+
+Em seguida eu entrei nos CheatSheets já existentes mencionadas acima e montei um compilado igual esse que está aqui, separando por etapas e possíveis vulnerabilidades.
+
+Após, segui [este guia](https://portswigger.net/web-security/certification/how-to-prepare) da própria PortSwigger do que é necessário e recomendado para estar pronto para a prova.
+
+- [ ] Completar todos os Practitioner Labs (opcional).
+- [ ] Completar os labs no passo 2.
+- [ ] Completar cinco desafios de lab misterioso.
+- [ ] Fazer e passar em um exame prático (simulado).
