@@ -59,8 +59,11 @@ Aqui temos as possíveis vulnerabilidades para cada etapa:
 * Vulnerabilidades de Upload de Arquivo
 * SSPP - Server Side Prototype Pollution
 
+<br>
+
 Essas vulnerabilidades são baseadas nos links do início, que também compartilham essas imagens:
 
+![Acesso Inicial ((1)](https://github.com/user-attachments/assets/faa4597a-46b8-420e-bfe0-de61dbceeae0)
 
 
 ![image](https://github.com/user-attachments/assets/5fdc252f-befd-433c-b200-58c567fa4182)
