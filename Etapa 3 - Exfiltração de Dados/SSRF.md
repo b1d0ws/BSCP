@@ -1,5 +1,7 @@
 # SSRF - Server Side Request Forgery
 
+Probabilidade: $${\color{yellow}média}$$.
+
 Se você encontrar SSRF no exame, utilize para ler arquivos internos no endereço `localhost:6566`, como designado pela própria PortSwigger.
 
 Algumas alternativas ao localhost e ao 127.0.0.1:
