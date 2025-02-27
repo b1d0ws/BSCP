@@ -1,5 +1,7 @@
 # SQL Injection
 
+Probabilidade: $${\color{red}alta}$$.
+
 Para o aprendizado, aprenda como explorar os laboratórios manualmente. É fundamental que você entenda como os ataques, os payloads e as queries funcionam no back-end.
 
 Para o exame, aprenda como usar o SQLMap para resolver os laboratórios. O maior desafio do exame é o limite de tempo, e usar o SQLMap vai te poupar MUITO tempo.
