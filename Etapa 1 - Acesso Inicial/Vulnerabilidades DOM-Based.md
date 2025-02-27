@@ -1,5 +1,9 @@
 # Vulnerabilidades DOM-Based
 
+Probabilidade: $${\color{lightgreen}baixa / média}$$.
+
+<br>
+
 Para identificar essas vulnerabilidades é recomendado utilizar o Browser da PortSwigger com a extensão que identifica esse tipo de exploração.
 
 Também pode-se identificar analisando o código fonte, principalmente de arquivos JavaScript.
