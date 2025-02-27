@@ -55,6 +55,7 @@ Aqui temos as possíveis vulnerabilidades para cada etapa:
 #### ETAPA 3 - EXFILTRAÇÃO DE DADOS
 * SSRF - Server Side Request Forgery
 * XXE Injection
+* OS Command Injection
 * SSTI - Server Side Template Injection
 * Directory Traversal
 * Deserialização Insegura
