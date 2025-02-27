@@ -1,10 +1,16 @@
 # Ataques de Host Header
 
+Probabilidade: $${\color{red}alta}$$.
+
+<br>
+
 O melhor lugar para procurar esse tipo de ataque é na funcionalidade de resetar senha (forgot password).
 
 Coloque o endereço do seu servidor de exploit no header **Host** e mude o username para o da vítima.
 
 Em seguida, confira os logs para ver se você recebeu o token de reset.
+
+<br>
 
 Outros Headers possíveis:
 ```
