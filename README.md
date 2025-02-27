@@ -7,6 +7,15 @@ Esse repositório majoritariamente compila dois outros repositórios que tem rel
 
 Dou grande crédito para os dois autores desses repositórios. A diferença desses links para esse repo é que aqui você vai encontrar o conteúdo em português e também centralizado.
 
+A ideia é direcionar quem está estudando para a BSCP com as possíveis vulnerabilidades em cada etapa. Acho isso fundamental para conseguir passar no exame, visto que o principal desafio é o limite de tempo.
+
+Em cada diretório você encontrará as vlnerabilidades possíveis para cada etapa, a resolução da maioria dos laboratórios e algumas dicas que podem te ajudar na prova.
+
+> [!IMPORTANT]  
+> Não utilize esse CheatSheet para aprender algo. Para estudar, faça os módulos da PortSwigger. Esse repositório serve apenas para compilar várias resoluções de laboratórios, dar algumas pequenas dicas e guiar o estudante nas possíveis vulnerabilidades que podem cair na BSCP.
+
+<br>
+
 Outros reviews e write-ups foram utilizados para compor esse guia, como:
 * [BSCP Methodology](https://bscpcheatsheet.gitbook.io/exam)
 * [How to Crush BSCP Exam in 75 Mins — BSCP Review - Ossama Yasser](https://medium.com/@ossamayasserr/how-to-crush-bscp-exam-in-75-mins-bscp-review-0b207a17e26d)
@@ -14,15 +23,11 @@ Outros reviews e write-ups foram utilizados para compor esse guia, como:
 
 <br>
 
-> [!IMPORTANT]  
-> Não utilize esse CheatSheet para aprender algo. Para aprender, faça os módulos da PortSwigger. Esse repositório serve apenas para compilar várias resoluções de laboratórios, dar algumas pequenas dicas e guiar o estudante nas possíveis vulnerabilidades que podem cair na BSCP.
-
-<br>
-
 ## Exame
-O exame da BSCP é composto por 3 etapas e você encontrará as possíveis vulnerabilidades de cada etapa nos outros diretórios desse repositório.
 
-A prova é composta de dois aplicativos com tempo máximo de 4 horas para finalizar todas as etapas.
+A prova é composta de dois aplicativos com 3 etapas cada, consecutivas, ou seja, você não pode chegar na última etapa sem passar pelas outras duas.
+
+O tempo máximo para conclusão é de 4 horas.
 
 1. Na primeira etapa, é necessário obter acesso a qualquer usuário de pouco privilégio.
 2. Na segunda etapa, é preciso obter permissões administrativas, seja escalando privilégios, seja obtendo a acesso a conta do administrador.
@@ -126,3 +131,8 @@ Após, segui [este guia](https://portswigger.net/web-security/certification/how-
 - [ ] Completar os labs no passo 2.
 - [ ] Completar cinco desafios de lab misterioso.
 - [ ] Fazer e passar em um exame prático (simulado).
+
+<br>
+
+> [!CAUTION]
+> Psiu, meia noite vou te contar um segredo. Talvez, mas apenas talvez, eu omiti algumas evidências que estão naqueles links iniciais de referência, pois uns dois exemplos eram idênticos ao que caiu na minha prova. Apenas 2 passos, não o exame todo, então você ainda precisa estudar! De todo modo, com certeza eles me ajudaram a agilizar meu exame... Não estou colocando aqui para evitar problemas, caso a PortSwigger considere aquilo como algum tipo de dump. Boa sorte!
