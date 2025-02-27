@@ -40,12 +40,17 @@ Todo aplicativo terá pelo menos um usuário ativo e logado. Esse usuário visit
 <br>
 
 ## Vulnerabilidades
-Nota: Algumas vulnerabilidades podem estar em duas ou mais etapas do exame. Por exemplo, SQL Injection pode estar em qualquer etapa. Nesses casos, a vulnerabilidade será colocada na etapa mais provável.
+> [!NOTE]  
+> Algumas vulnerabilidades podem estar em duas ou mais etapas do exame. Por exemplo, SQL Injection pode estar em qualquer etapa. Nesses casos, a vulnerabilidade será colocada na etapa mais provável.
+
+> [!IMPORTANT]  
+> De maneira alguma leve o que está aqui como verdade absoluta. Estamos falando de possibilidades, a qualquer momento a PortSwigger pode mudar o formato do exame e simplesmente adicionar diferentes tipos de vulnerabilidades.
+
+<br>
 
 Aqui temos as possíveis vulnerabilidades para cada etapa:
 
 #### ETAPA 1 - ACESSO INICIAL
-* Enumeração
 * XSS - Cross-Site Scripting
 * Vulnerabilidades em DOM
 * Autenticação
