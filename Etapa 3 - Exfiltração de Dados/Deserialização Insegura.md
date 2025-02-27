@@ -1,5 +1,9 @@
 # Deserialização Insegura
 
+Probabilidade: $${\color{orange}média / alta}$$.
+
+<br>
+
 A extensão Java Deserialization Sacanner pode ser bem útil para identificar e montar payloads quando a vulnerabilidade é em Java.
 
 Para Java também pode gerar o exploit com o [ysoserial](https://github.com/frohoff/ysoserial) e para PHP com o [phpggc](https://github.com/ambionics/phpggc).
