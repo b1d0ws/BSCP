@@ -71,7 +71,7 @@ Agora podemos adicionar esse User-Agent na request para envenenar o cache corret
 ```
 GET / HTTP/1.1
 Host: vulnerbale.net
-User-Agent: THE SPECIAL USER-AGENT OF THE VICTIM
+User-Agent: AGENTE USADO PELA VÍTIMA
 X-Host: attacker.com
 ```
 
