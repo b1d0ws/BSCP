@@ -1,5 +1,9 @@
 # OAuth
 
+OAuth normalmente aparece na página de Sign-in. A request mais provável de ser vulnerável é `/auth?client_id=...`.
+
+Probabilidade: $${\color{lightgreen}baixa}$$.
+
 <br>
 
 ## Laboratórios
