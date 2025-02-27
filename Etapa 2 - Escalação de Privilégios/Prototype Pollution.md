@@ -1,5 +1,7 @@
 # Prototype Pollution
 
+Probabilidade: $${\color{green}baixa}$$.
+
 Recomenda-se utilizar a extensão DOM-Invader do navegador do BurpSuite para encontrar essa vulnerabilidade.
 
 Também surge em arquivos como: `searchLogger.js`, `searchLoggerAlternative.js` and similar `searchLogger`....
