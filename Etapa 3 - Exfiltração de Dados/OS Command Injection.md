@@ -1,6 +1,6 @@
 # OS Command Injection
 
-Probabilidade: $${\color{red}Alta}$$.
+Probabilidade: $${\color{red}alta}$$.
 
 Normalmente o Command Injection aparece nos parâmetros que envolvem e-mail, como na feature the submeter feedback.
 
