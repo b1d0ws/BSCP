@@ -1,5 +1,9 @@
 # Web Cache Poisoning
 
+Probabilidade: $${\color{red}alta}$$.
+
+<br>
+
 Se você ver o header `X-Cache: hit` na resposta e a existência do arquivo `/resources/js/tracking.js`, provavelmente a aplicação está vulnerável a Web Cache Poisoning.
 
 A primeira coisa a se testar quando ver esses recursos, é tentar refletir o domínio do exploit server atráves desses headers:
