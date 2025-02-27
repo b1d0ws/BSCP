@@ -1,5 +1,7 @@
 # SSTI - Server Side Template Injection
 
+Probabilidade: $${\color{orange}média/alta}$$.
+
 Payloads genéricos:
 ```
 ${{<%[%'"}}%\
