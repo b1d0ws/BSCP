@@ -1,5 +1,7 @@
 # XXE Injection
 
+Probabilidade: $${\color{red}alta}$$.
+
 Escaneie as requisições que envolvem XML com o Burp, seja um scan ativo, seja uma porção específica.
 
 Assim como o SSRF, normalmente aparece no endpoint `/product/stock`.
