@@ -1,5 +1,7 @@
 # CSRF - Cross Site Request Forgery
 
+Probabilidade: $${\color{red}alta}$$.
+
 O CSRF vai focar em alterar dados da vítima, principalmente seu e-mail. Trocando o e-mail dela, você consegue solicitar um reset de senha e obter acesso a conta.
 
 Um payload de CSRF simples, sem defesa alguma:
