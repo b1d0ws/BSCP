@@ -1,5 +1,7 @@
 # OS Command Injection
 
+Probabilidade: $${\color{red}Alta}$$.
+
 Normalmente o Command Injection aparece nos parâmetros que envolvem e-mail, como na feature the submeter feedback.
 
 Aprenda alguns comandos além do que é ensinado nos laboratórios para exfiltrar dado, visto que nem sempre o comando que você testa primeiro existe ou funciona no alvo.
