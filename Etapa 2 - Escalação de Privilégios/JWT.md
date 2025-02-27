@@ -2,7 +2,7 @@
 
 A extensão JWT Editor ajuda bastante para resolver alguns laboratórios.
 
-Probabilidade: $${\color{green}baixa/média}$$.
+Probabilidade: $${\color{lightgreen}baixa/média}$$.
 
 <br>
 
