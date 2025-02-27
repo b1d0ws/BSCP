@@ -2,7 +2,9 @@
 
 O melhor lugar para procurar esse tipo de ataque é na funcionalidade de resetar senha (forgot password).
 
-Coloque o endereço do seu servidor de exploit no header **Host** e mude o username para o da vítima. Em seguida confira os logs para ver se você recebeu o token de reset dela.
+Coloque o endereço do seu servidor de exploit no header **Host** e mude o username para o da vítima.
+
+Em seguida, confira os logs para ver se você recebeu o token de reset.
 
 Outros Headers possíveis:
 ```
@@ -16,6 +18,9 @@ Forwarded
 <br>
 
 ## Laboratórios
+
+> [!IMPORTANT]  
+> Esse é o Lab mais importante dessa seção.
 
 **Basic Password Reset Poisoning**
 ```
