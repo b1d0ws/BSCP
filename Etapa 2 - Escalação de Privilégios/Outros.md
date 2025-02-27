@@ -2,7 +2,7 @@
 
 Aqui temos um compilado de vulnerabilidades que provavelmente não estarão no seu exame, mas é bom saber para evitar surpresas.
 
-Possibilidade: $${\color{lightgreen}Baixa}$$.
+Possibilidade: $${\color{green}baixa}$$.
 
 <br>
 
