@@ -1,5 +1,8 @@
 # Directory Traversal
 
+
+Probabilidade: $${\color{red}Alta}$$.
+
 O scanner do Burp provavelmente vai encontrar essa vulnerabilidade, mas de toda forma ela é facilmente identificada.
 
 Em qualquer lugar que esteja lendo arquivos, tente ler `/etc/passwd` ou `/home/carlos/secret`. Provavelmente algum bypass será necessário.
