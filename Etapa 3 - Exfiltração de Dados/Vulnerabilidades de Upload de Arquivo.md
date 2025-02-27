@@ -1,5 +1,9 @@
 # Vulnerabilidades de Upload de Arquivo
 
+Probabilidade: $${\color{yellow}média}$$.
+
+<br>
+
 Normalmente surge no upload de avatar em `/my-account`.
 
 Arquivo malicioso para ler conteúdo:
@@ -15,7 +19,8 @@ GET /example/exploit.php?command=id HTTP/1.1
 ```
 
 <br>
-<br>
+
+## Laboratórios
 
 **Web Shell Upload via Content-Type Restriction Bypass**
 
