@@ -1,6 +1,8 @@
 # HTTP Request Smuggling
 
-Passei perrengue nos laboratórios com essa vulnerabilidade.
+Probabilidade: $${\color{green}baixa}$$.
+
+<br>
 
 É bem incomum de cair no exame, mas caso ela apareça, identifique-a com a extensão HTTP Request Smuggler e ao identificar o tipo, utilize os payloads dos labs.
 
