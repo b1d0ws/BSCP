@@ -1,5 +1,9 @@
 # XSS - Cross-Site Scripting
 
+Probabilidade: $${\color{red}alta}$$.
+
+<br>
+
 Se você ver um campo de busca (search) ou um seção de comentários, busque por XSS.
 
 Se tudo estiver sendo encodado, provavelmente o parâmetro não está vulnerável a XSS.
