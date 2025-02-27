@@ -2,9 +2,11 @@
 
 Probabilidade: $${\color{red}alta}$$.
 
-Normalmente o Command Injection aparece nos parâmetros que envolvem e-mail, como na feature the submeter feedback.
+<br>
 
-Aprenda alguns comandos além do que é ensinado nos laboratórios para exfiltrar dado, visto que nem sempre o comando que você testa primeiro existe ou funciona no alvo.
+Normalmente o **Command Injection** aparece nos parâmetros que envolvem e-mail, como na feature the submeter feedback.
+
+Aprenda alguns comandos além do que é ensinado nos laboratórios para exfiltrar dados, visto que nem sempre o comando que você testa primeiro existe ou funciona no alvo.
 
 Algumas variações:
 ```
@@ -33,7 +35,7 @@ email=x||ping+-c+10+127.0.0.1||
 
 **Blind OS Command Injection with Output Redirection**
 
-Tem um diretório passível de escrita em `/var/qwww/images/`.
+Tem um diretório passível de escrita em `/var/www/images/`.
 ```
 ||+whoami+>+/var/www/images/whoami.txt||
 ```
