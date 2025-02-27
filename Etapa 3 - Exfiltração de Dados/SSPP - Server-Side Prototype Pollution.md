@@ -22,6 +22,8 @@ Separei esse Prototype Pollution do que está na Etapa 2 para evitar confusão, 
 > [!CAUTION]
 > O comando acima foi trocado de 'rm' para 'cat' de propósito, para evitar que você copie o comando e delete o arquivo secret do exame. Nos laboratórios, de fato você precisará usar o comando 'rm'.
 
+<br>
+
 Se você quer testar a execução do comando:
 ```
 "__proto__": {
