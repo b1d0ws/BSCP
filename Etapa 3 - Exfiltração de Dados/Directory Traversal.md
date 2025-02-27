@@ -1,7 +1,7 @@
 # Directory Traversal
 
 
-Probabilidade: $${\color{red}Alta}$$.
+Probabilidade: $${\color{red}alta}$$.
 
 O scanner do Burp provavelmente vai encontrar essa vulnerabilidade, mas de toda forma ela é facilmente identificada.
 
