@@ -14,6 +14,11 @@ Outros reviews e write-ups foram utilizados para compor esse guia, como:
 
 <br>
 
+> [!IMPORTANT]  
+> Não utilize esse CheatSheet para aprender algo. Para aprender, faça os módulos da PortSwigger. Esse repositório serve apenas para compilar várias resoluções de laboratórios, dar algumas pequenas dicas e guiar o estudante nas possíveis vulnerabilidades que podem cair na BSCP.
+
+<br>
+
 ## Exame
 O exame da BSCP é composto por 3 etapas e você encontrará as possíveis vulnerabilidades de cada etapa nos outros diretórios desse repositório.
 
