@@ -1,6 +1,6 @@
 # Etapa 3 - Exfiltração de Dados
 
-Nessa etapa você precisa ler o conteúdo do arquivo `/home/carlos/secret`.
+Nessa etapa você precisa ler o conteúdo do arquivo `/home/carlos/secret` para submeter como solução da aplicação.
 
 Baseado nisso, tenha em mente que as vulnerabilidades ou resultaram em leitura de arquivo (Path Traversal, XXE, etc) ou em RCE (OS Command Injection, SSTI, etc).
 
