@@ -53,6 +53,7 @@ Todo aplicativo terá pelo menos um usuário ativo e logado. Esse usuário visit
 Aqui temos as possíveis vulnerabilidades para cada etapa:
 
 #### ETAPA 1 - ACESSO INICIAL
+* Enumeração
 * XSS - Cross-Site Scripting
 * Vulnerabilidades em DOM
 * Autenticação
