@@ -11,6 +11,8 @@ A ideia é direcionar quem está estudando para a BSCP com as possíveis vulnera
 
 Em cada diretório você encontrará as vlnerabilidades possíveis para cada etapa, a resolução da maioria dos laboratórios e algumas dicas que podem te ajudar na prova.
 
+<br>
+
 > [!IMPORTANT]  
 > Não utilize esse CheatSheet para aprender algo. Para estudar, faça os módulos da PortSwigger. Esse repositório serve apenas para compilar várias resoluções de laboratórios, dar algumas pequenas dicas e guiar o estudante nas possíveis vulnerabilidades que podem cair na BSCP.
 
@@ -132,8 +134,8 @@ Em seguida eu entrei nos CheatSheets já existentes mencionadas acima e montei u
 
 Após, segui [este guia](https://portswigger.net/web-security/certification/how-to-prepare) da própria PortSwigger do que é necessário e recomendado para estar pronto para a prova.
 
-- [ ] Completar todos os Practitioner Labs (opcional).
-- [ ] Completar os labs no passo 2.
+- [ ] Completar todos os [Practitioner Labs](https://portswigger.net/web-security/certification/how-to-prepare/practitioner-labs-prep-step-one) (opcional).
+- [ ] Completar os labs do [passo 2](https://portswigger.net/web-security/certification/how-to-prepare).
 - [ ] Completar cinco desafios de lab misterioso.
 - [ ] Fazer e passar em um exame prático (simulado).
 
