@@ -339,6 +339,8 @@ Tem um diretório passível de escrita em `/var/www/images/`.
 
 Acesse o arquivo em: `/image?filename=whoami.txt`.
 
+<br>
+
 **Lab: Discovering Vulnerabilities Quickly with Targeted Scanning**
 
 Utilize o Active Scan em `POST /produck/stock`.
