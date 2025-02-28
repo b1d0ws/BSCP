@@ -5,7 +5,7 @@ Esse repositório majoritariamente compila dois outros repositórios que tem rel
 * [Burp Suite Certified Practitioner Exam Study - botesjuan](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 * [BurpSuiteCertifiedPractitioner - DingyShark](https://github.com/DingyShark/BurpSuiteCertifiedPractitioner)
 
-Dou grande crédito para os dois autores desses repositórios. A diferença desses links para esse repo é que aqui você vai encontrar o conteúdo em português e também centralizado.
+Dou grande crédito para os dois autores desses repositórios. A diferença desses links para esse repo é que aqui você vai encontrar o conteúdo em português, centralizado e também com ajustes de acordo com minha experiência.
 
 A ideia é direcionar quem está estudando para a BSCP com as possíveis vulnerabilidades em cada etapa. Acho isso fundamental para conseguir passar no exame, visto que o principal desafio é o limite de tempo.
 
