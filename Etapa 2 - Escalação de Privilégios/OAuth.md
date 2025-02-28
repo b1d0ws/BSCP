@@ -36,7 +36,7 @@ Crie um iframe para explorar isso com CSRF:
 
 **OAuth Account Hijacking via redirect_uri**
 
-Mude o redirect_uri para o servidor de exploit.
+Mude o `redirect_uri` para o servidor de exploit.
 
 O CSRF será:
 ```
