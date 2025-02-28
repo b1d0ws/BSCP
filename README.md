@@ -131,9 +131,9 @@ Passei por todos os tópicos da PortSwigger (mesmo alguns que não são úteis p
 
 Conteúdos mais avançados e laboratórios Expert eu pulei todos.
 
-Em seguida eu entrei nos CheatSheets já existentes mencionadas acima e montei um compilado igual esse que está aqui, separando por etapas e possíveis vulnerabilidades.
+Em seguida eu entrei nos CheatSheets mencionados acima e montei um compilado igual esse que está aqui, separando por etapas e possíveis vulnerabilidades.
 
-Após, segui [este guia](https://portswigger.net/web-security/certification/how-to-prepare) da própria PortSwigger do que é necessário e recomendado para estar pronto para a prova.
+Após, segui [este guia](https://portswigger.net/web-security/certification/how-to-prepare) da própria PortSwigger do que é necessário e recomendado para estar pronto para a prova. Os últimos três itens são obrigatórios para poder agendar o exame.
 
 - [ ] Completar todos os [Practitioner Labs](https://portswigger.net/web-security/certification/how-to-prepare/practitioner-labs-prep-step-one) (opcional).
 - [ ] Completar os labs do [passo 2](https://portswigger.net/web-security/certification/how-to-prepare).
