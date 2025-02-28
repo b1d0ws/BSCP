@@ -13,6 +13,7 @@ Caso identifique user enumeration ou precise realizar brute-force, utilize essas
 <br>
 
 Possíveis vulnerabilidades:
+* Enumeração
 * XSS - Cross-Site Scripting
 * Vulnerabilidades em DOM
 * Autenticação
