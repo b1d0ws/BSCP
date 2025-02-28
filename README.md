@@ -9,7 +9,7 @@ Dou grande crédito para os dois autores desses repositórios. A diferença dess
 
 A ideia é direcionar quem está estudando para a BSCP com as possíveis vulnerabilidades em cada etapa. Acho isso fundamental para conseguir passar no exame, visto que o principal desafio é o limite de tempo.
 
-Em cada diretório você encontrará as vlnerabilidades possíveis para cada etapa, a resolução da maioria dos laboratórios e algumas dicas que podem te ajudar na prova.
+Em cada diretório você encontrará as vulnerabilidades possíveis para cada etapa, a resolução da maioria dos laboratórios e algumas dicas que podem te ajudar na prova.
 
 <br>
 
